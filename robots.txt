@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iushaosahe.analytic-kata.com/sitemap.xml
